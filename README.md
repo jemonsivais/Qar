@@ -15,3 +15,5 @@ Distance from wall to the right
 ## Rewards
 -100 for crashing
 0 for crashing
+
+To run it is required to have javatuples in your directory.
